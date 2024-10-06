@@ -5,6 +5,10 @@ This project aims to build a machine learning model capable of distinguishing be
 # Project Overview
 The primary goal of this project is to develop a robust model that detects automated (robotic) bids in real-time by analyzing user behavior and bid patterns. This detection system is built using advanced data mining techniques, including feature extraction, exploratory data analysis (EDA), feature engineering, and predictive modeling.
 
+<div>
+   <img src="Systemlayout" alt="Technologies" width="500" style="margin-left: 20px;" />
+</div>
+
 # Key Features:
 * **Bidder Behavior Analysis**: Extracts relevant features from user bidding data to capture unique behaviors of robotic and human bidders.
 * **Machine Learning Models**: Multiple models were tested and optimized, including Logistic Regression, RandomForest, AdaBoost, SVM, and KNN, to find the best-performing classifier.
