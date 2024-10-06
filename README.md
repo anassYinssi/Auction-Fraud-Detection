@@ -5,8 +5,8 @@ This project aims to build a machine learning model capable of distinguishing be
 # Project Overview
 The primary goal of this project is to develop a robust model that detects automated (robotic) bids in real-time by analyzing user behavior and bid patterns. This detection system is built using advanced data mining techniques, including feature extraction, exploratory data analysis (EDA), feature engineering, and predictive modeling.
 
-<div>
-   <img src="System_layout" alt="System_layout" width="500" style="margin-left: 20px;" />
+<div style="text-align: center;">
+   <img src="System_layout.jpg" alt="System_layout" width="450" />
 </div>
 
 # Key Features:
