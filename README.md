@@ -15,6 +15,11 @@ The primary goal of this project is to develop a robust model that detects autom
 * **Real-Time Bid Monitoring**: The final model can be deployed to monitor bids in real-time and flag suspicious activity.
 * **Web Application**: A user-friendly interface built with Streamlit allows stakeholders to test the model's predictions interactively.
 
+### Pack of important tools:
+<div style="text-align: center;">
+   <img src="techs.png" alt="System_layout" width="450" />
+</div>
+
 # Data Description
 Two datasets were used:
 
