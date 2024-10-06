@@ -51,8 +51,6 @@ Each model's performance was evaluated using:
 * **Precision, Recall, F1-Score**
 * **Matthews Correlation Coefficient (MCC)**
 * **Learning Curves**
-  
-The AdaBoost model with RandomizedSearchCV achieved the highest performance with an MCC of 84%.
 
 # Deployment
 The final model was deployed using a Streamlit web application. The app allows users to:
