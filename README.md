@@ -46,12 +46,14 @@ he EDA process involved analyzing missing data, visualizing relationships betwee
 * Some merchandise categories and countries are more likely associated with robotic bids.
 
 # Model Development
-Multiple machine learning models were developed, tested, and optimized:
+Multiple **Machine Learning** models were developed, tested, and optimized:
 
 1. Logistic Regression: The initial model was trained and then optimized using GridSearchCV.
 2. RandomForest: Tuned for better performance using SelectKBest and PolynomialFeatures for feature selection.
 3. AdaBoost: Optimized using RandomizedSearchCV.
 4. SVM and KNN: Also tested and tuned using hyperparameter optimization.
+
+A DNN also was implemented as a **Deep Learning** Model, using two hidden layers respectively shape 64, 32 with a "relu" activation. The input layer received our variables while the output one has used "Sigmoid" as an activation function to predict our bid.
 
 # Model Evaluation
 Each model's performance was evaluated using:
