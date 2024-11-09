@@ -1,4 +1,4 @@
-# Distinguisher of Robotic and Human Bids on E-commerce Auctions
+# Intelligent Detection of Automated Bidding Activity
 
 This project aims to build a machine learning model capable of distinguishing between robotic and human bids on an e-commerce platform. With the increasing prevalence of bots in online auctions, identifying and mitigating automated bids is crucial for ensuring fair competition and enhancing user trust.
 
